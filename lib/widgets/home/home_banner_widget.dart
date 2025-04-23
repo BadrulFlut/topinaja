@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:topinaja/config/locale_keys.dart'; // Jika ada teks yang perlu dilokalkan
-import 'package:easy_localization/easy_localization.dart';
+// Jika ada teks yang perlu dilokalkan
 
 class HomeBannerWidget extends StatelessWidget {
   // URL gambar banner akan dinamis

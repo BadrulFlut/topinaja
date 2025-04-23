@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart';
 import 'package:topinaja/config/locale_keys.dart';
 import 'package:easy_localization/easy_localization.dart';

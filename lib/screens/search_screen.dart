@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:topinaja/config/locale_keys.dart';
-import 'package:easy_localization/easy_localization.dart';
 import 'package:topinaja/widgets/search/search_app_bar.dart';
 import 'package:topinaja/widgets/search/popular_search_grid_widget.dart';
 import 'package:topinaja/widgets/search/recommendation_grid_widget.dart';

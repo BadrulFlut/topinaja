@@ -45,7 +45,6 @@ class DetailActionButtons extends StatelessWidget {
           const SizedBox(width: 16),
           Expanded(
             child: ElevatedButton(
-              child: const Text('Checkout'), // TODO: Lokalisasi
               onPressed: () {
                 // TODO: Implement checkout logic
               },
@@ -60,6 +59,7 @@ class DetailActionButtons extends StatelessWidget {
                 ),
                 elevation: 2, // Sedikit elevasi
               ),
+              child: const Text('Checkout'),
             ),
           ),
         ],

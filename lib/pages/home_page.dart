@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:easy_localization/easy_localization.dart';
-import 'package:topinaja/config/locale_keys.dart';
-import 'package:topinaja/config/routes.dart';
 import 'package:topinaja/widgets/home/home_app_bar.dart';
 import 'package:topinaja/widgets/home/search_bar_widget.dart';
 import 'package:topinaja/widgets/home/delivery_info_widget.dart';

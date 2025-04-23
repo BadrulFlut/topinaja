@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:topinaja/providers/settings_provider.dart';
 
 class ThemeModeDialog extends StatelessWidget {

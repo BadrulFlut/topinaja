@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:phosphor_flutter/phosphor_flutter.dart'; // Impor PhosphorIcons
 import 'package:topinaja/providers/settings_provider.dart';
 import 'package:topinaja/widgets/profile/profile_option_tile.dart';
